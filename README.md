@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Language-Any-success?style=for-the-badge" alt="Any Language" />
   <img src="https://img.shields.io/badge/Platform-Obsidian%20%2B%20Claude-blue?style=for-the-badge" alt="Obsidian + Claude" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" />
+  <a href="https://discord.gg/EUnQmABw8s"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 # My Brain Is Full - Crew
