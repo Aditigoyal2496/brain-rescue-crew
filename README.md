@@ -1,12 +1,12 @@
-<h1 align="center">🧠 My Brain Is Full — Crew</h1>
+<h1 align="center">🚀 Brain Rescue Crew</h1>
 
 <p align="center">
-  <strong>A team of 8+ AI agents and 14 specialized skills that manage your Obsidian vault<br>so your brain doesn't have to.</strong>
+  <strong>An AI-powered team of 8 agents and 14 skills that manage your work life,<br>so you can actually focus on leading.</strong>
 </p>
 
 <p align="center">
-  You talk. They organize, file, connect, search, transcribe, and triage your email.<br>
-  In any language. On the platform you already use.
+  You're always in meetings. Your inbox is chaos. Deadlines slip through the cracks.<br>
+  Brain Rescue Crew turns conversation into organization. No manual file management. No friction.
 </p>
 
 <p align="center">
@@ -37,15 +37,13 @@
 
 ## The honest origin story
 
-I'm a PhD researcher. I've spent years training my brain to hold enormous amounts of information: papers, ideas, deadlines, people, half-baked theories at 2am. And for a while, it worked.
+I'm a Product Manager. And I'm drowning.
 
-Then it didn't.
+Every day is back-to-back meetings. Standup, planning, sync with engineers, feedback sessions, stakeholder calls. Between meetings I have 2 minutes to check email. There are 47 unread messages. Three people are waiting for decisions I forgot I promised. Two deadlines were mentioned in Slack last week. One email thread has context I need but I haven't read past message 6.
 
-Memory started slipping. Not dramatically (no diagnosis, no crisis) just the slow, creeping realization that the mental budget was getting empty, and things were falling through the cracks. I'd forget what I'd read. Lose track of conversations. Feel constantly behind, constantly overwhelmed.
+I tried apps. Note-taking tools. Calendar apps. Task managers. They all required something I don't have: **time to organize**. I'd capture notes but never file them. I'd create tasks but lose them in a system I barely remember. Email would pile up. Decisions would get forgotten. Context would evaporate.
 
-I started looking for solutions. I found a lot of Obsidian + Claude setups online. They were mostly clever note-capture tools, glorified search engines for your second brain. Useful. But not what I needed.
-
-What I needed wasn't just a memory extension. I needed a **brain dump system**, something that could help me organize not just my knowledge, but my life: my overwhelmed mind, my wrecked physical health, the avalanche of emails and commitments and things I should have done last week.
+I needed something different. Not another tool to *manage*. A **team that works for me**. Something that listens when I talk, organizes while I'm in the next meeting, surfaces what I actually need to know, and stays out of my way.
 
 So I built this.
 
@@ -83,26 +81,12 @@ Custom agents coordinate with the core crew, get discovered automatically by you
 
 ## Who this is for
 
-- PhD students, researchers, academics drowning in papers and commitments
-- Anyone with **brain fog**, or just an overloaded working memory
-- Non-native English speakers who want a system that works in their language
-- Anyone who's tried Obsidian before and gave up because it felt like a second job
+- **Product Managers** drowning in meetings and email
+- **Engineering Leads** juggling team, stakeholders, and technical decisions
+- **Anyone constantly in back-to-back calls** who needs context and decisions to stick
+- People who've tried productivity systems and gave up because they required *more work*
 
-If you've ever thought *"I need to get organized, but I'm too exhausted to get organized"*, this is for you.
-
----
-
-## Important disclaimers
-
-> **Please read the [full disclaimers](docs/DISCLAIMERS.md) before using this project.**
-
-Key points:
-
-- **This software is for personal use on your own data.** You are responsible for GDPR/CCPA compliance if you process third-party data (e.g., emails containing other people's information).
-- **No warranty.** Provided "as is". Back up your vault. The author accepts no liability.
-- **No responsibility for forks or misuse.** This is a personal productivity tool. Malicious repurposing is explicitly condemned.
-
-> **By using this software, you agree to the [Terms of Use](TERMS_OF_USE.md).** During onboarding, the Architect will ask you to explicitly accept these terms before proceeding.
+If you've ever thought *"I don't have time to stay organized"*, this is for you.
 
 ---
 
