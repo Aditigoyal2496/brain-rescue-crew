@@ -21,12 +21,6 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/EUnQmABw8s">
-    <img src="https://img.shields.io/badge/💬_Join_the_Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Agents-8%2B-blueviolet?style=flat-square" alt="8+ Agents" />
   <img src="https://img.shields.io/badge/Skills-14-blue?style=flat-square" alt="14 Skills" />
   <img src="https://img.shields.io/badge/Language-Any-success?style=flat-square" alt="Any Language" />
