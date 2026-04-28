@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # =============================================================================
-# My Brain Is Full - Crew :: Updater
+# Brain Rescue Crew :: Updater
 # =============================================================================
 # After pulling new changes from the repo, run this to update the crew:
 #
-#   cd /path/to/your-vault/My-Brain-Is-Full-Crew
+#   cd /path/to/your-vault/brain-rescue-crew
 #   git pull
 #   bash scripts/updateme.sh
 #
@@ -90,7 +90,7 @@ case "$PLATFORM" in
 esac
 echo -e "${BOLD}This will update core agents, skills, references, hooks, and ${_DISP_NAME}.${NC}"
 echo -e "   ${DIM}Custom agents in .${_FW_DIR_NAME}/agents/ are never overwritten or deleted.${NC}"
-echo -e "   ${DIM}Custom content between MBIFC markers in references is preserved.${NC}"
+echo -e "   ${DIM}Custom content between BRC markers in references is preserved.${NC}"
 echo -e "   ${DIM}Your vault notes are never touched.${NC}"
 echo ""
 echo -e "   ${BOLD}c)${NC} Continue"

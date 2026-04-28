@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # =============================================================================
-# My Brain Is Full - Crew :: Installer
+# Brain Rescue Crew :: Installer
 # =============================================================================
 # Run this from inside the cloned repo, which should be inside your vault:
 #
-#   cd /path/to/your-vault/My-Brain-Is-Full-Crew
+#   cd /path/to/your-vault/brain-rescue-crew
 #   bash scripts/launchme.sh
 #
 # It builds and copies agents, skills, references, hooks, and settings into

@@ -268,13 +268,13 @@ Open Obsidian and create a new vault (or use an existing one).
 
 ```bash
 cd /path/to/your-vault
-git clone https://github.com/gnekt/My-Brain-Is-Full-Crew.git
+git clone https://github.com/Aditigoyal2496/brain-rescue-crew.git
 ```
 
 ### 3. Run the installer
 
 ```bash
-cd My-Brain-Is-Full-Crew
+cd brain-rescue-crew
 bash scripts/launchme.sh
 ```
 
@@ -386,7 +386,7 @@ All other agents and skills work with just your local Obsidian vault. No integra
 After pulling new changes from the repo:
 
 ```bash
-cd /path/to/your-vault/My-Brain-Is-Full-Crew
+cd /path/to/your-vault/brain-rescue-crew
 git pull
 bash scripts/updateme.sh
 ```
@@ -412,7 +412,7 @@ Only changed files are updated. Your vault notes are never touched.
 ## Project structure
 
 ```
-My-Brain-Is-Full-Crew/               ← cloned inside your vault
+brain-rescue-crew/               ← cloned inside your vault
 ├── agents/                          The 8 core agents
 │   ├── architect.md                   Vault setup & onboarding
 │   ├── scribe.md                      Text capture & note creation
@@ -473,7 +473,7 @@ your-vault/
 ├── Meta/
 │   └── scripts/              ← orchestra scripts (permission-free agent commands)
 ├── CLAUDE.md / GEMINI.md / AGENTS.md / ...  ← dispatcher (platform-specific name)
-├── My-Brain-Is-Full-Crew/    ← the repo (for updates)
+├── brain-rescue-crew/    ← the repo (for updates)
 └── ... your Obsidian notes
 ```
 
@@ -490,7 +490,7 @@ your-vault/
 ├── Meta/
 │   └── scripts/              ← orchestra scripts
 ├── AGENTS.md                 ← dispatcher (Codex reads this)
-├── My-Brain-Is-Full-Crew/    ← the repo (for updates)
+├── brain-rescue-crew/    ← the repo (for updates)
 └── ... your Obsidian notes
 ```
 

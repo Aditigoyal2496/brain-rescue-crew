@@ -1,6 +1,6 @@
 # Codex CLI Guide
 
-This guide covers everything you need to install, update, and run My Brain Is Full — Crew on [Codex CLI](https://openai.com/codex) (`@openai/codex`).
+This guide covers everything you need to install, update, and run Brain Rescue Crew on [Codex CLI](https://openai.com/codex) (`@openai/codex`).
 
 > **Windows note:** Codex CLI's Windows support is experimental. If you are on Windows, running inside WSL (Windows Subsystem for Linux) is strongly recommended.
 
@@ -16,8 +16,8 @@ npm i -g @openai/codex@latest
 
 # Clone the repo inside your vault and install the Crew
 cd /path/to/your-vault
-git clone https://github.com/gnekt/My-Brain-Is-Full-Crew.git
-cd My-Brain-Is-Full-Crew
+git clone https://github.com/Aditigoyal2496/brain-rescue-crew.git
+cd brain-rescue-crew
 bash scripts/launchme.sh --platform codex-cli
 ```
 
@@ -30,7 +30,7 @@ bash scripts/launchme.sh --platform codex-cli --target /path/to/your-vault
 ### Update after a git pull
 
 ```bash
-cd /path/to/your-vault/My-Brain-Is-Full-Crew
+cd /path/to/your-vault/brain-rescue-crew
 git pull
 bash scripts/updateme.sh --platform codex-cli
 ```
@@ -99,7 +99,7 @@ Skills install to `.agents/skills/` for Codex (not `.codex/skills/`). Codex CLI 
 
 ### Agent chaining (max_depth constraint)
 
-Codex CLI enforces `agents.max_depth = 1`. This means child agents can only go one level deep. My Brain Is Full — Crew handles this through root-context orchestration:
+Codex CLI enforces `agents.max_depth = 1`. This means child agents can only go one level deep. Brain Rescue Crew handles this through root-context orchestration:
 
 - The dispatcher embeds orchestration instructions in the root context (not in a child)
 - Child agents (`spawn_agent`) finish one bounded task and return to root

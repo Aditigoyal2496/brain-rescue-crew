@@ -1,6 +1,6 @@
 # Terms of Use
 
-**My Brain Is Full - Crew**
+**Brain Rescue Crew**
 **Last updated: 2026-03-23**
 
 By using this software, you agree to the following terms. If you do not agree, do not use the software.

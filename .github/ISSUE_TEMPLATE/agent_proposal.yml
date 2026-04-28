@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Want to add a new agent to the crew? Fill out the sections below.
-        Check the [contributing guide](https://github.com/gnekt/My-Brain-Is-Full-Crew/blob/main/CONTRIBUTING.md#propose-a-new-crew-member) for details on agent design.
+        Check the [contributing guide](https://github.com/Aditigoyal2496/brain-rescue-crew/blob/main/CONTRIBUTING.md#propose-a-new-crew-member) for details on agent design.
 
   - type: input
     id: name

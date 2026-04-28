@@ -215,7 +215,7 @@ See `.platform/references/agent-orchestration.md` for the full protocol and `.pl
 
 # Project Info
 
-## My Brain Is Full - Crew
+## Brain Rescue Crew
 
 A crew of 8 AI subagents that manage an Obsidian vault through natural conversation.
 
@@ -229,13 +229,13 @@ If you don't have one yet, open [Obsidian](https://obsidian.md) and create a new
 
 ```bash
 cd /path/to/your-vault
-git clone https://github.com/gnekt/My-Brain-Is-Full-Crew.git
+git clone https://github.com/Aditigoyal2496/brain-rescue-crew.git
 ```
 
 ### Step 3: Run the installer
 
 ```bash
-cd My-Brain-Is-Full-Crew
+cd brain-rescue-crew
 bash scripts/launchme.sh
 ```
 
@@ -247,7 +247,7 @@ your-vault/
 │   ├── agents/          ← 8 crew agents (auto-loaded at session start)
 │   └── references/      ← shared docs the agents read
 ├── .mcp.json            ← Gmail + Calendar (optional, if you chose yes)
-├── My-Brain-Is-Full-Crew/  ← the repo (for updates)
+├── brain-rescue-crew/  ← the repo (for updates)
 └── ... your notes
 ```
 
@@ -260,7 +260,7 @@ your-vault/
 ### Updating
 
 ```bash
-cd /path/to/your-vault/My-Brain-Is-Full-Crew
+cd /path/to/your-vault/brain-rescue-crew
 git pull
 bash scripts/updateme.sh
 ```
@@ -276,7 +276,7 @@ Only changed files are overwritten. Your vault notes are never touched.
 ## Project Structure
 
 ```
-My-Brain-Is-Full-Crew/
+brain-rescue-crew/
 ├── agents/                   The 8 subagents
 │   ├── architect.md            Vault setup & onboarding
 │   ├── scribe.md               Text capture & note creation

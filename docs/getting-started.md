@@ -1,4 +1,4 @@
-# Getting Started with My Brain Is Full - Crew
+# Getting Started with Brain Rescue Crew
 
 A step-by-step guide for setting up your AI-powered vault. No technical background required.
 
@@ -87,13 +87,13 @@ cd /path/to/your-vault
 Clone the repo inside your vault:
 
 ```bash
-git clone https://github.com/gnekt/My-Brain-Is-Full-Crew.git
+git clone https://github.com/Aditigoyal2496/brain-rescue-crew.git
 ```
 
 Run the installer:
 
 ```bash
-cd My-Brain-Is-Full-Crew
+cd brain-rescue-crew
 bash scripts/launchme.sh
 ```
 
@@ -111,7 +111,7 @@ your-vault/
 │   ├── hooks/           ← file protection and validation
 │   └── references/      ← shared docs the agents read
 ├── CLAUDE.md / GEMINI.md / AGENTS.md  ← dispatcher (varies by platform)
-├── My-Brain-Is-Full-Crew/  ← the repo (for future updates)
+├── brain-rescue-crew/  ← the repo (for future updates)
 └── ... your Obsidian notes
 ```
 
@@ -126,7 +126,7 @@ your-vault/
 ├── .agents/
 │   └── skills/          ← 14 specialized skills
 ├── AGENTS.md            ← dispatcher
-├── My-Brain-Is-Full-Crew/  ← the repo (for future updates)
+├── brain-rescue-crew/  ← the repo (for future updates)
 └── ... your Obsidian notes
 ```
 
@@ -255,7 +255,7 @@ The Architect customizes the structure based on your onboarding answers.
 ### "How do I update to a new version?"
 
 ```bash
-cd /path/to/your-vault/My-Brain-Is-Full-Crew
+cd /path/to/your-vault/brain-rescue-crew
 git pull
 bash scripts/updateme.sh
 ```

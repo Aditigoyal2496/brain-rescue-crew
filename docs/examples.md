@@ -197,7 +197,7 @@ Once inside the interactive `codex` session, the Crew works the same way as on o
 ### Update after a git pull
 
 ```bash
-cd /path/to/your-vault/My-Brain-Is-Full-Crew
+cd /path/to/your-vault/brain-rescue-crew
 git pull
 bash scripts/updateme.sh --platform codex-cli
 ```

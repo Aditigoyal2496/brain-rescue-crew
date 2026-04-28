@@ -10,7 +10,7 @@
 # =============================================================================
 
 INPUT=$(cat)
-TITLE=$(echo "$INPUT" | jq -r '.args.title // "Second Brain Crew"' 2>/dev/null)
+TITLE=$(echo "$INPUT" | jq -r '.args.title // "Brain Rescue Crew"' 2>/dev/null)
 MESSAGE=$(echo "$INPUT" | jq -r '.args.message // "Your obsidian crew needs your attention"' 2>/dev/null)
 
 if [[ "$(uname)" == "Darwin" ]]; then

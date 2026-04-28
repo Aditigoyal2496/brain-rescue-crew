@@ -1,6 +1,6 @@
 # Migrating to Codex CLI
 
-This guide covers how to move an existing My Brain Is Full — Crew installation from Claude Code, Gemini CLI, or OpenCode to Codex CLI. It also explains what transfers automatically and what needs manual attention.
+This guide covers how to move an existing Brain Rescue Crew installation from Claude Code, Gemini CLI, or OpenCode to Codex CLI. It also explains what transfers automatically and what needs manual attention.
 
 > **If you are doing a fresh install** (not migrating), follow [docs/codex-cli.md](codex-cli.md) instead.
 
@@ -37,7 +37,7 @@ After running `launchme.sh --platform codex-cli`, the Codex files are installed 
 
 1. Pull the latest repo changes:
    ```bash
-   cd /path/to/your-vault/My-Brain-Is-Full-Crew
+   cd /path/to/your-vault/brain-rescue-crew
    git pull
    ```
 
@@ -64,7 +64,7 @@ After running `launchme.sh --platform codex-cli`, the Codex files are installed 
 
 1. Pull the latest repo changes:
    ```bash
-   cd /path/to/your-vault/My-Brain-Is-Full-Crew
+   cd /path/to/your-vault/brain-rescue-crew
    git pull
    ```
 
@@ -87,7 +87,7 @@ After running `launchme.sh --platform codex-cli`, the Codex files are installed 
 
 1. Pull the latest repo changes:
    ```bash
-   cd /path/to/your-vault/My-Brain-Is-Full-Crew
+   cd /path/to/your-vault/brain-rescue-crew
    git pull
    ```
 
@@ -131,7 +131,7 @@ model = "o4-mini"
 
 [agent.prompt]
 content = """
-You are the Budget Tracker agent for the My Brain Is Full — Crew system.
+You are the Budget Tracker agent for the Brain Rescue Crew system.
 ... (your agent instructions here)
 """
 ```
